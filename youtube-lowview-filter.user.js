@@ -94,7 +94,7 @@
 
     // 조회수 문자열 파싱 (생방송 대응 포함)
     function parseViews(text) {
-        const match = text.match(/([\d.,]+)([천만억]?)(?=\s*회|명\s*시청중)/);
+        const match = text.match(/([\d.,]+)([천만억]?)(?=\s*회|명\s*시청 중)/);
         if (!match) return null;
         let num = parseFloat(match[1].replace(/,/g, ''));
         const unit = match[2];
