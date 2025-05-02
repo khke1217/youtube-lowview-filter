@@ -17,7 +17,7 @@ Tampermonkey 확장 프로그램에서 동작하는 사용자 스크립트입니
 1. [Tampermonkey 확장 프로그램](https://www.tampermonkey.net/) 설치
 2. 아래 링크 클릭으로 스크립트 설치
 
-👉 [**스크립트 설치하기**](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/youtube-lowview-filter.user.js)
+👉 [**스크립트 설치하기**](https://github.com/khke1217/youtube-lowview-filter/raw/main/youtube-lowview-filter.user.js)
 
 ---
 
@@ -52,7 +52,7 @@ Tampermonkey 확장 프로그램에서 동작하는 사용자 스크립트입니
 ## ✨ 제작자
 
 - 스크립트명: `youtube-lowview-filter.user.js`
-- 작성자: [당신의 닉네임 또는 GitHub 주소]
+- 작성자: 달에구름
 - 버전: 3.2 (2024)
 
 ---
